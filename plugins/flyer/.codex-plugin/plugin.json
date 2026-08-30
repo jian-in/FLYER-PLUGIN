@@ -1,0 +1,38 @@
+{
+  "name": "flyer",
+  "version": "1.0.0",
+  "description": "Turn an idea and reference images into consistent cinematic keyframes and Seedance-ready vertical-video production prompts.",
+  "author": {
+    "name": "jian-in",
+    "url": "https://github.com/jian-in"
+  },
+  "homepage": "https://github.com/jian-in/FLYER-PLUGIN",
+  "repository": "https://github.com/jian-in/FLYER-PLUGIN",
+  "keywords": [
+    "cinematic",
+    "gpt-image-2",
+    "seedance",
+    "storyboard",
+    "vertical-video"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "FLYER",
+    "shortDescription": "电影级关键帧与 Seedance 短片制作包",
+    "longDescription": "把一句创意和参考图转化为角色一致、镜头明确、光影与材质可执行的 GPT Image 2 关键帧提示词和 Seedance 中文视频提示词。内置 40 种可观察、可复现的电影视觉预设。",
+    "developerName": "jian-in",
+    "category": "Design",
+    "capabilities": [
+      "Image generation",
+      "Video prompting",
+      "Character continuity"
+    ],
+    "defaultPrompt": [
+      "把我的一句创意做成9:16电影感短片制作包。",
+      "根据参考图锁定角色，并生成关键帧与Seedance提示词。",
+      "推荐适合这个故事的电影视觉风格。"
+    ],
+    "brandColor": "#111827",
+    "websiteURL": "https://github.com/jian-in/FLYER-PLUGIN"
+  }
+}

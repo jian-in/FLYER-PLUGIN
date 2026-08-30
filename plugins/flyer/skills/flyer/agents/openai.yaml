@@ -1,0 +1,4 @@
+interface:
+  display_name: "FLYER Skill"
+  short_description: "把一句创意变成角色一致、光影高级的关键帧与Seedance短视频制作包"
+  default_prompt: "Use $flyer to turn my idea into a consistent 9:16 keyframe and Seedance production pack."
